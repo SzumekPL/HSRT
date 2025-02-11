@@ -28,3 +28,7 @@ III. Enjoy!
 The source code is dual licensed under Public Domain and MIT -- choose whichever you prefer.
 
 <sub> Used sfml-template </sub>
+
+# Projekt
+
+W planach jest raytracing w hiperbolistycznej przestrzeni Poincarégo ale nie wiem jeszcze nawet czy jest to możliwe
