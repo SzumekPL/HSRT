@@ -31,4 +31,4 @@ The source code is dual licensed under Public Domain and MIT -- choose whichever
 
 # Projekt
 
-W planach jest raytracing w hiperbolistycznej przestrzeni Poincarégo ale nie wiem jeszcze nawet czy jest to możliwe
+W planach jest raytracing w hiperbolistycznej przestrzeni Poincarégo ale nie wiem jeszcze nawet czy jest to możliwe i jakie da efekty, możliwe że to plan który nie działą od samego początku
